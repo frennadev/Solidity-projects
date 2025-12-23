@@ -11,6 +11,7 @@ Repo layout
 - `showcase/` – Foundry project with highlighted samples and tests. See its `README.md` for details and commands.
 - `NewBep20.sol` – BEP20 reflection token with fee mechanics and owner-controlled parameters.
 - Root `.sol` files – One-file copies/variants of common OpenZeppelin contracts for reference and remixing.
+- `client-work/` – Custom client-oriented token contracts recently authored (various tax/bot/fee configurations). Use as portfolio proof-of-work; review each contract’s logic and parameters before reuse.
 
 Quick start (Showcase with Foundry)
 -----------------------------------
