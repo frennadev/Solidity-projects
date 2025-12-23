@@ -1,0 +1,25 @@
+# Node/JS
+node_modules/
+npm-debug.log*
+yarn-error.log
+
+# Hardhat/Foundry artifacts
+cache/
+artifacts/
+out/
+broadcast/
+coverage/
+coverage.json
+
+# Env & OS
+.env
+.env.*
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
